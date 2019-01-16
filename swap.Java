@@ -13,6 +13,11 @@ public class Swap {
 
         // swapping
 
+        int temp= x;
+        x = y;
+        y = temp;
+
+
         System.out.println("x is " + x);
         System.out.println("y is " + y);
 
