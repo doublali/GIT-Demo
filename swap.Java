@@ -2,7 +2,7 @@ public class Swap {
 
     public static  void  main(String args[]){
 
-        int x = 43;
+        int x = 50;
         int y = 20;
 
         System.out.println("x is " + x);
